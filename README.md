@@ -1,6 +1,7 @@
 # control_s
 
-Javascript to add keyboard shortcut for ExpressionEngine to save entries, and maybe anywhere else the same button code is used.  +v5.  
+Keyboard shortcut for ExpressionEngine to save entries, and maybe anywhere else the same button code is used.  +v5.  
+Adds a little bit of javascript to the control panel.
 
 Command/Control +  
 S = Save  
