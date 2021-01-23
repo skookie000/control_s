@@ -1,6 +1,6 @@
 # control_s
 
-Keyboard shortcut for ExpressionEngine to save entries.  +v5.  
+Javascript to add keyboard shortcut for ExpressionEngine to save entries, and maybe anywhere else the same button code is used.  +v5.  
 
 Command/Control +  
 S = Save  
