@@ -45,7 +45,7 @@ class Ctrl_s_ext {
         if (version_compare(APP_VER, '5.0.0', '>')) {
 
             $js = "(function () {
-                const entryform = document.querySelector('[data-publish]');
+                const entryform = document.querySelector('.ee-main__content');
                 const submitbutton = entryform.querySelector('button[value=save]');
                 const savenew = entryform.querySelector('button[value=save_and_new]');
                 const saveclose = entryform.querySelector('button[value=save_and_close]');
