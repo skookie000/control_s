@@ -44,7 +44,7 @@ class Ctrl_s_ext {
 
         if (version_compare(APP_VER, '5.0.0', '>')) {
 
-            $js = "
+            $js = "(function () {
                 const entryform = document.querySelector('[data-publish]');
                 const submitbutton = entryform.querySelector('button[value=save]');
                 const savenew = entryform.querySelector('button[value=save_and_new]');
@@ -66,6 +66,7 @@ class Ctrl_s_ext {
                     }                                
 
                 });
+            }());                
             ";
 
         }
