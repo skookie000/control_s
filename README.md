@@ -6,3 +6,5 @@ Command/Control +
 S = Save  
 D = Save and New  
 G = Save and Close.  
+
+An update to https://devot-ee.com/add-ons/ctrls  
