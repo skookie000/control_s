@@ -9,6 +9,6 @@ G = Save and Close.
 
 Command/Control + Arrow Left/Right to cycle tabs.
 
-Focuses to first text input on load, and after tab cycle.
+Focuses to first text input on load, and after the tab changes.
 
 Original v2 credit https://devot-ee.com/add-ons/ctrls  
