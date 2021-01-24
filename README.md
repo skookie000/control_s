@@ -1,6 +1,4 @@
-# control_s
-
-Keyboard shortcut for ExpressionEngine to save entries, and maybe anywhere else the same button code is used.  v6, v5.
+A few keyboard shortcut for ExpressionEngine. v6, v5.
 Adds a little bit of javascript to the control panel.
 
 # Shortcuts:  
@@ -9,7 +7,7 @@ S = Save
 D = Save and New  
 G = Save and Close.  
 
-Command/Control + Arrow Left/Right to cycle tabs.
+Command/Control + Arrow Left/Right to cycle entry tabs.
 
 Focuses to first text input on load, and after tab cycle.
 
