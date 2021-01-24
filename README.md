@@ -7,7 +7,7 @@ S = Save
 D = Save and New  
 G = Save and Close.  
 
-Command/Control + Arrow Left/Right to cycle entry tabs.
+Command/Control + Arrow Left/Right to cycle tabs.
 
 Focuses to first text input on load, and after tab cycle.
 
